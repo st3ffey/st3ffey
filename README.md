@@ -2,9 +2,9 @@
 
 Currently, I'm a Master's student learning everything I can about Data Science through Columbia's Quantitative Methods in Social Sciences (QMSS) program. It's an interdisciplinary degree that focuses on applying statistics fundamentals and proper research methodology to a variety of topics. Read more about my program here: https://qmss.columbia.edu/
 
-My primary research interest is in environmental sustainibility 🌱, so I'm starting to see some really cool ways data science can be applied to the field. However, through my recent studies, I've gained an interest in other, tech-oriented ways to apply data science principles. 
+My primary research interest is in using data science to contribute tot environmental sustainibility 🌱, so I'm starting to see some really cool ways data science can be applied to the field. However, through my recent studies, I've also gained an interest in other tech-oriented ways to apply data science principles. 
 
-💬 For now, I'm honing some advanced regression techniques, learning more about machine learning and natural language processing, and practicing other various quantitative skills. I hope to use this platform to soon host some of my favorite or perhaps most meaningful work.
+💬 For now, I'm honing some advanced machine learning techniques, learning more about natural language processing and regression, and practicing other various quantitative skills. I hope to use this platform to soon host some of my favorite or perhaps most meaningful work.
 
 ⚡ A bit about me -- I love to be active! I love running (xc and track in college), skateboarding, biking, and skiing. I used to compete in tournaments for some video games, I love all sorts of music, and I'm a huge movie nerd.
 
