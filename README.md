@@ -10,6 +10,8 @@ At the moment, primary research interest is large language models. However, thro
 
 If you think I might benefit from your knowledge somehow, please contact me!
 
+p.s. I'm starting to write a bit on medium. Check out my profile: https://medium.com/@ms6539
+
 Max Steffey 😄 (he/him)
 ms6539@columbia.edu
 https://www.linkedin.com/in/maxwelljsteffey/
