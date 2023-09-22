@@ -4,11 +4,9 @@ Currently, I'm a Master's student learning everything I can about Data Science t
 
 At the moment, primary research interest is large language models. However, through my recent studies, I've also gained an interest in broader tech-oriented ways to apply data science principles. 
 
-💬 For now, I'm honing some advanced machine learning techniques, learning more about natural language processing, and practicing other various quantitative skills. I hope to use this platform to soon host some of my favorite or perhaps most meaningful work.
+💬 For now, I'm honing some advanced machine learning techniques, learning more about natural language processing, and practicing other various quantitative skills. 
 
 ⚡ A bit about me -- I love to be active! I love running (xc and track in college), skateboarding, biking, and skiing. I used to compete in tournaments for some video games, I love all sorts of music, and I'm a huge movie nerd.
-
-If you think I might benefit from your knowledge somehow, please contact me!
 
 p.s. I'm starting to write a bit on medium. Check out my profile: https://medium.com/@ms6539
 
