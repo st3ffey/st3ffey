@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Max. 
 
-Currently, I'm a Master's student learning everything I can about Data Science through Columbia's Quantitative Methods in Social Sciences (QMSS) program. It's an interdisciplinary degree that focuses on applying statistics fundamentals and proper research methodology to a variety of topics. Read more about my program here: https://qmss.columbia.edu/
+Currently, I'm a Master's student learning everything I can about Data Science through Columbia's Quantitative Methods in Social Sciences (QMSS) program. Read more about my program here: https://qmss.columbia.edu/
 
-At the moment, primary research interest is large language models. However, through my recent studies, I've also gained an interest in broader tech-oriented ways to apply data science principles. 
+At the moment, primary research interest is large language models. However, I love all things machine learning and I love (trying) to stay up to date with all of the cool stuff happening daily in the GenAI field.
 
-💬 For now, I'm honing some advanced machine learning techniques, learning more about natural language processing, and practicing other various quantitative skills. 
+
 
 ⚡ A bit about me -- I love to be active! I love running (xc and track in college), skateboarding, biking, and skiing. I used to compete in tournaments for some video games, I love all sorts of music, and I'm a huge movie nerd.
 
