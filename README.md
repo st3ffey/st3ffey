@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm Max. 
 
-Currently, I'm a Master's student learning everything I can about Data Science through Columbia's Quantitative Methods in Social Sciences (QMSS) program. Read more about my program here: https://qmss.columbia.edu/
+I'm a recently graduated Master's student learning everything I can about Data Science and Machine Learning. Read more about my program here: https://qmss.columbia.edu/
 
-At the moment, primary research interest is large language models. However, I love all things machine learning and I love (trying) to stay up to date with all of the cool stuff happening daily in the GenAI field.
-
-
+At the moment, I'm particularly interested in applications of large language models. I was an early proponent of retrieval augmented generation, and have been practicing this sytem for a while. Still, I love all things machine learning and I love (trying) to stay up to date with all of the cool stuff happening daily in the GenAI field.
 
 ⚡ A bit about me -- I love to be active! I love running (xc and track in college), skateboarding, biking, and skiing. I used to compete in tournaments for some video games, I love all sorts of music, and I'm a huge movie nerd.
 
-p.s. I'm starting to write a bit on medium. Check out my profile: https://medium.com/@ms6539
+p.s. I'm (hoping) starting to write a bit on medium. Check out my profile: https://medium.com/@ms6539
 
 Max Steffey 😄 (he/him)
 ms6539@columbia.edu
