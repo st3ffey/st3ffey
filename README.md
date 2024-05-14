@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Max. 
+### Hi there 👋 I'm Max. This is my personal, recreational account, where I host some practice and side-projects. 
 
 I'm a recently graduated Master's student learning everything I can about Data Science and Machine Learning.
 
